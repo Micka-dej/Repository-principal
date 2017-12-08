@@ -8,3 +8,4 @@ Liens pour les comptes GitHub :
 - Hichem : https://github.com/hichemamb
 - Piotr : https://github.com/PiotrBajek
 - Thomas: https://github.com/ThomasFRANJA
+- Hichem: https://github.com/hichemamb
