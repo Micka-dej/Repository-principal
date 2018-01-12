@@ -1,0 +1,10 @@
+
+/*
+Qu'est ce qu'une adresse IP
+*/
+
+Une adresse IP (avec IP pour Internet Protocol) est le numéro qui identifie chaque ordinateur connecté à Internet,
+ou plus généralement et précisément, l'interface avec le réseau de tout matériel informatique (routeur, imprimante)
+connecté à un réseau informatique utilisant l'Internet Protocol. Il existe des adresses IP de version 4 et de
+version 6. En 2007, la version 4 est la plus utilisée : elle est généralement notée avec quatre nombres compris
+entre 0 et 255, séparés par des points ; exemple : 212.85.150.133.
